@@ -9,6 +9,7 @@ git add, commit islemleri ve git push komutları
 Repodan 3. ve 5. özelliğin yerini değiştirme 
 git add, commit islemleri ve git push komutları
 
+![hata belirtilme görseli](hata.png)
 
 #Hata ile karşılaşma
 
