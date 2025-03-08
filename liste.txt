@@ -1,6 +1,5 @@
 Youtube özellik listesi
 1- Kullanıcı Dostu Arayüz
-2- Öneri ve Kişiselleştirme 
-3- Hız Kontrolü
-4- Gelişmiş Arama Motoru
-5- Çevrimdışı video izleme
+2- Öneri ve Kişiselleştirme
+3- Gelişmiş Arama Motoru
+4- Çevrimdışı video izleme
