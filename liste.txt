@@ -3,3 +3,4 @@ Youtube özellik listesi
 2- Öneri ve Kişiselleştirme 
 3- Hız Kontrolü
 4- Gelişmiş Arama Motoru
+5- Çevrimdışı video izleme
