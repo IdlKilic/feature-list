@@ -9,10 +9,14 @@ git add, commit islemleri ve git push komutları
 Repodan 3. ve 5. özelliğin yerini değiştirme 
 git add, commit islemleri ve git push komutları
 
+
 #Hata ile karşılaşma
 
 git pull komutu --> git config pull.rebase false  # merge
 git pull komutu tekrar 
+
+![conflict belirtilme görseli](conflict.png)
+
 git add, commit islemleri ve git push komutları
 3. özelliğin silinmesi
 git add, commit islemleri ve git push komutları
